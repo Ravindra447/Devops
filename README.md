@@ -1,2 +1,2 @@
 # Devops
-Learning Devops test
+Learning Devops
